@@ -1,0 +1,6 @@
+/OrchardOpt.apsimx.bak
+/OrchardOpt.db
+/OrchardOpt.db-shm
+/OrchardOpt.db-wal
+*.db
+*.pkl
